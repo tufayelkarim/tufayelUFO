@@ -1,0 +1,23 @@
+html {
+  height: 100%;
+}
+    body {
+  background-color: black;
+      color:white;
+}
+
+#title {
+  color:green;
+  text-align: center;
+}
+    .small-image {
+      width:100px;
+      height:auto;
+      display:block;
+      margin: 0 auto;
+    }
+
+   p {
+     background-color: rgba(0, 0, 255, 0.3);
+   }
+
